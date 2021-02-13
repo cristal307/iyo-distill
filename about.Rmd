@@ -1,10 +1,16 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "Cristal Rivera"
+image: "tobii.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/cristal-rivera-picado/"
+  - label: Twitter
+    url: "https://twitter.com/cristalrivera44"
+  - label: GitHub
+    url: "https://github.com/cristal307"
+  
+output:
+  postcards::jolla
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
+ 
+I am a data scientist enthusiast, and a very curios person. I like thinking that one simple act can change the world.  My personal website is [here](http://cristalrivera.rbind.io/) where you can find more about my interests :) 

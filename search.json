@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Cristal Rivera",
+      "author": [],
+      "contents": "\r\n\r\n    \r\n    \r\n      \r\n        \r\n          \r\n            Cristal Rivera\r\n          \r\n          \r\n            \r\n              I am a data scientist enthusiast, and a very curios person. I like thinking that one simple act can change the world. My personal website is here where you can find more about my interests :)\r\n            \r\n            \r\n              I am a data scientist enthusiast, and a very curios person. I like thinking that one simple act can change the world. My personal website is here where you can find more about my interests :)\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-01-28T20:17:16-06:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Hi there virtual friend!",
+      "description": "Hope you enjoy my posts!",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-01-28T20:17:18-06:00"
+    }
+  ],
+  "collections": []
+}
